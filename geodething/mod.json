@@ -1,0 +1,16 @@
+{
+  "geode": "v4.0.0",
+  "gd": {
+    "win": "2.2081"
+  },
+  "id": "example.overlay-starter",
+  "name": "Overlay Starter",
+  "version": "v1.0.0",
+  "developer": "Example",
+  "description": "A simple customizable HUD overlay starter for Geometry Dash.",
+  "tags": [
+    "interface",
+    "utility",
+    "customization"
+  ]
+}
